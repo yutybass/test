@@ -73,3 +73,5 @@ plt.tick_params(labelbottom=True,labelleft=True)
 plt.xticks([n for n in range(-10,11,2)])
 plt.yticks([n for n in range(-10,11,2)])
 plt.savefig('tsp.png')
+
+print("hello")
